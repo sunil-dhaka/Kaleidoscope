@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Kaleidoscope Banner" width="100%"/>
+</p>
+
 # Kaleidoscope
 
 A minimalist Android drawing app that creates mesmerizing symmetrical patterns with real-time kaleidoscope effects.
